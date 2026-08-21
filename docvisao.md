@@ -6,3 +6,11 @@
 
 ### 1.2 Escopo do Sistema 
  O ibmecsharks.com.br  será um site, permitindo que usuários consigam se conectar com o time de Esports da IBMEC, notificados de eventos futuros da equipe e futuramente apoiar o time na loja virtual de merchandising.
+
+## 2. Posicionamento
+### 2.1 Oportunidade de Negócio
+Com o aumento da demanda de jogadores para a Ibmec Sharks, notou-se que o grande problema para cessar essa escassez era a grande falta de informação da existência da equipe dentro da faculdade. O ibmecsharks.com.br vem de uma iniciativa para solucionar esse problema, facilitando o acesso às informações, processos de recrutamento da equipe e a ciência da existência desta.
+
+### 2.2 Especificação do Problema
+
+### 2.3 Proposta de Solução
