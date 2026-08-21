@@ -28,7 +28,7 @@ Criação de um aplicativo adaptado com mapeamento por pontos de referência e f
 
 O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsível a refeições, gás, medicamentos e mantimentos com fretes justos, comerciantes locais que precisam de uma ferramenta leve para gerir vendas e estoque sem altas taxas e entregadores da comunidade, que exigem rotas otimizadas para deslocamentos a pé, de bicicleta/ moto ou barco com transparência em seus ganhos.
 
-## 4. Visão geral do produto
+## 4. Visão geral do produto 🔬
 
 ### Recursos principais
 Catálogo organizado: Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
@@ -85,4 +85,4 @@ Adesão Comercial: Os estabelecimentos locais irão migrar o atendimento de vend
 
 Força de Trabalho Local: A comunidade contará com moradores interessados em atuar como entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
 
-Infraestrutura de Rede: A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo. 
+Infraestrutura de Rede: A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo.
