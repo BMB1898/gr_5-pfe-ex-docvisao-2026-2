@@ -22,3 +22,18 @@ Grupo de alunos Ibmec que sonham em ver sua instituição ter maior representati
 
 ### 3.2 Usuários
 Alunos do IBMEC com interesse em participar de um time de Esports e usuários interessados nesse cenário e que querem seguir o cronograma do IBMEC SHARKS
+
+## 4 Visão geral do produto
+Recursos e Funcionalidades: 
+
+- Descrição da equipe 
+
+- Cronograma de eventos
+
+- Possíveis inscrições para o time
+
+Principais restrições:  
+
+- Trata de um nicho específico de pessoas dentro da faculdade.
+
+- Falta de informação sobre o assunto
