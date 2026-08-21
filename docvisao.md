@@ -30,3 +30,21 @@ O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsí
 
 ## 4 Visão geral do produto
 
+### Recursos principais
+Catálogo organizado: Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
+
+Localização adaptativa: Mapeamento feito por fotos de fachada, pontos de referência informais e pino no mapa.
+
+Agendamento e encomendas: Possibilidade de programar entregas com antecedência ou reservar produtos antes da chegada do barco de suprimentos.
+
+Painel do comerciante e entregador: Interface leve para gestão simples de estoque, controle de horários e atribuição de rotas por zonas.
+
+Rastreamento em tempo real: Acompanhamento do status do pedido e da rota da entrega ajustada para transporte a pé, de bicicleta ou barco.
+
+### Restrições
+Mobilidade Limitada: Entregas restritas a modais não motorizados (a pé ou de bicicleta) ou pequenas embarcações.
+
+Dependência de Conectividade Local: Operação sujeita a instabilidades na rede móvel e oscilações no sinal de internet da ilha.
+
+Impacto Climático e de Marés: Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
+
