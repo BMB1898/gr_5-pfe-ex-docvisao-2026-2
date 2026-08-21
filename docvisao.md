@@ -31,22 +31,30 @@ O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsí
 ## 4. Visão geral do produto 🔬
 
 ### Recursos principais
-Catálogo organizado: Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
+Catálogo organizado: 
+Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
 
-Localização adaptativa: Mapeamento feito por fotos de fachada, pontos de referência informais e pino no mapa.
+Localização adaptativa: 
+Mapeamento feito por fotos de fachada, pontos de referência informais e pino no mapa.
 
-Agendamento e encomendas: Possibilidade de programar entregas com antecedência ou reservar produtos antes da chegada do barco de suprimentos.
+Agendamento e encomendas: 
+Possibilidade de programar entregas com antecedência ou reservar produtos antes da chegada do barco de suprimentos.
 
-Painel do comerciante e entregador: Interface leve para gestão simples de estoque, controle de horários e atribuição de rotas por zonas.
+Painel do comerciante e entregador: 
+Interface leve para gestão simples de estoque, controle de horários e atribuição de rotas por zonas.
 
-Rastreamento em tempo real: Acompanhamento do status do pedido e da rota da entrega ajustada para transporte a pé, de bicicleta ou barco.
+Rastreamento em tempo real: 
+Acompanhamento do status do pedido e da rota da entrega ajustada para transporte a pé, de bicicleta ou barco.
 
 ### Restrições
-Mobilidade Limitada: Entregas restritas a modais não motorizados (a pé ou de bicicleta) ou pequenas embarcações.
+Mobilidade Limitada: 
+Entregas restritas a modais não motorizados (a pé ou de bicicleta) ou pequenas embarcações.
 
-Dependência de Conectividade Local: Operação sujeita a instabilidades na rede móvel e oscilações no sinal de internet da ilha.
+Dependência de Conectividade Local: 
+Operação sujeita a instabilidades na rede móvel e oscilações no sinal de internet da ilha.
 
-Impacto Climático e de Marés: Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
+Impacto Climático e de Marés: 
+Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
 
 ## 5. Requisitos de Alto Nível
 
@@ -65,24 +73,59 @@ Distribuição e atribuição de rotas: O sistema deve direcionar os pedidos aos
 Alertas climáticos e de maré: O sistema deve exibir avisos automáticos sobre condições adversas de tempo ou maré que afetem o tempo estimado de entrega.
 
 ### Requisitos Não Funcionais
-Desempenho: O aplicativo deve carregar em no máximo 2 segundos, mantendo bom tempo de resposta mesmo sob conexões de dados móveis instáveis.
+Desempenho: 
+O aplicativo deve carregar em no máximo 2 segundos, mantendo bom tempo de resposta mesmo sob conexões de dados móveis instáveis.
 
-Disponibilidade e Tolerância a Falhas: O sistema deve contar com navegação via cache offline para permitir a consulta de cardápios e status de pedidos mesmo com quedas temporárias de internet na ilha.
+Disponibilidade e Tolerância a Falhas: 
+O sistema deve contar com navegação via cache offline para permitir a consulta de cardápios e status de pedidos mesmo com quedas temporárias de internet na ilha.
 
-Usabilidade e Acessibilidade: A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
+Usabilidade e Acessibilidade: 
+A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
+
 
 ## 6. Restrições e Premissas
 
 ### Restrições
-Tecnológicas: Necessidade de desenvolver uma aplicação extremamente leve para operar em conexões móveis lentas e com suporte a sincronização offline.
+Tecnológicas: 
+Necessidade de desenvolver uma aplicação extremamente leve para operar em conexões móveis lentas e com suporte a sincronização offline.
 
-Operacionais: Proibição de veículos a combustão na região, limitando toda a logística de entregas ao uso de modais suaves.
+Operacionais: 
+Proibição de veículos a combustão na região, limitando toda a logística de entregas ao uso de modais suaves.
 
-Geográficas: Ausência de endereçamento formal (CEPs e nomes de ruas oficiais) em grande parte da comunidade, exigindo validação por pontos de referência informais. 
+Geográficas: 
+Ausência de endereçamento formal (CEPs e nomes de ruas oficiais) em grande parte da comunidade, exigindo validação por pontos de referência informais. 
 
 ### Premissas
-Adesão Comercial: Os estabelecimentos locais irão migrar o atendimento de vendas informais por redes sociais para a plataforma centralizada.
+Adesão Comercial: 
+Os estabelecimentos locais irão migrar o atendimento de vendas informais por redes sociais para a plataforma centralizada.
 
-Força de Trabalho Local: A comunidade contará com moradores interessados em atuar como entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
+Força de Trabalho Local: 
+A comunidade contará com moradores interessados em atuar como entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
 
-Infraestrutura de Rede: A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo.
+Infraestrutura de Rede: 
+A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo.
+
+## 7. Riscos e Dependências 📊
+
+### Riscos
+Inoperância por falhas de conectividade: 
+Quedas prolongadas na rede de internet móvel da ilha podem impedir o processamento de novos pedidos e o rastreamento em tempo real.
+
+Desabastecimento por condições climáticas: 
+Marés altas, tempestades e ventanias que fechem os canais de navegação podem interromper o estoque dos comerciantes locais.
+
+Resistência à digitalização: 
+Dificuldade de adesão por parte de comerciantes ou entregadores mais velhos com pouca familiaridade técnica.
+
+Sobrecarga na alta temporada: 
+O aumento repentino do volume de pedidos durante feriados e férias pode sobrecarregar a capacidade logística dos entregadores locais.  
+
+### Dependências
+Engajamento do comércio local: 
+O funcionamento do sistema depende da adesão contínua de restaurantes, farmácias e mercados para manter o catálogo atualizado.
+
+Frota local ativa: 
+A viabilidade das entregas depende da disponibilidade diária de moradores para realizar os trajetos.
+
+Disponibilidade da infraestrutura de telecom: 
+O sistema depende dos serviços prestados pelas operadoras locais de telefonia para a sincronização dos dados do aplicativo.
