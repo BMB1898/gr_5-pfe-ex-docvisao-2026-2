@@ -83,7 +83,7 @@ Usabilidade e Acessibilidade:
 A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
 
 
-## 6. Restrições e Premissas
+## 6. Restrições e Premissas 
 
 ### Restrições
 Tecnológicas: 
