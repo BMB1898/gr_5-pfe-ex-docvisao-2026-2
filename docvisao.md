@@ -63,3 +63,10 @@ Painel do comerciante: O sistema deve oferecer recursos para controle simples de
 Distribuição e atribuição de rotas: O sistema deve direcionar os pedidos aos entregadores de acordo com suas zonas geográficas de atuação e capacidade de carga.  
 
 Alertas climáticos e de maré: O sistema deve exibir avisos automáticos sobre condições adversas de tempo ou maré que afetem o tempo estimado de entrega.
+
+### Requisitos Não Funcionais
+Desempenho: O aplicativo deve carregar em no máximo 2 segundos, mantendo bom tempo de resposta mesmo sob conexões de dados móveis instáveis.
+
+Disponibilidade e Tolerância a Falhas: O sistema deve contar com navegação via cache offline para permitir a consulta de cardápios e status de pedidos mesmo com quedas temporárias de internet na ilha.
+
+Usabilidade e Acessibilidade: A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
