@@ -1,26 +1,33 @@
 # 📖 Documento de visão 📖
 
-## 1. introdução
-### 1.1 Propósito
+## 1. introdução ✍️
 
+### 🎯 Objetivo e público alvo
+Este documento estabelece a visão estratégica, os objetivos de negócio, os perfis de 
+usuários e as funcionalidades essenciais do aplicativo **Tropical Turbo**. O objetivo central 
+é conectar comerciantes locais, moradores, turistas e entregadores em uma única rede logística 
+eficiente e adaptada às peculiaridades insulares.
 
-### 1.2 Escopo do Sistema 
- 
+### ⚙️ Escopo do sistema
+Aplicativo para gestão de pedidos, mapeamento comunitário e suporte à logística de entregas de
+produtos como suprimentos básicos, produtos de farmácia, artesanato e encomendas.
+
 
 ## 2. Posicionamento
-### 2.1 Oportunidade de Negócio
+
+### Oportunidade de Negócio
 
 
-### 2.2 Especificação do Problema
+### Especificação do Problema
 
-### 2.3 Proposta de Solução
+### Proposta de Solução
 
 ## 3. Descrição dos Stakeholders e Usuários
 
-### 3.1 Stakeholders
+### Stakeholders
 
 
-### 3.2 Usuários
+### Usuários
 
 
 ## 4 Visão geral do produto
