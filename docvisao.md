@@ -28,7 +28,7 @@ Criação de um aplicativo adaptado com mapeamento por pontos de referência e f
 
 O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsível a refeições, gás, medicamentos e mantimentos com fretes justos, comerciantes locais que precisam de uma ferramenta leve para gerir vendas e estoque sem altas taxas e entregadores da comunidade, que exigem rotas otimizadas para deslocamentos a pé, de bicicleta/ moto ou barco com transparência em seus ganhos.
 
-## 4 Visão geral do produto
+## 4. Visão geral do produto
 
 ### Recursos principais
 Catálogo organizado: Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
@@ -48,7 +48,7 @@ Dependência de Conectividade Local: Operação sujeita a instabilidades na rede
 
 Impacto Climático e de Marés: Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
 
-## 5 Requisitos de Alto Nível
+## 5. Requisitos de Alto Nível
 
 ### Requisitos Funcionais
 Gestão de pedidos e catálogo: 
@@ -70,3 +70,19 @@ Desempenho: O aplicativo deve carregar em no máximo 2 segundos, mantendo bom te
 Disponibilidade e Tolerância a Falhas: O sistema deve contar com navegação via cache offline para permitir a consulta de cardápios e status de pedidos mesmo com quedas temporárias de internet na ilha.
 
 Usabilidade e Acessibilidade: A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
+
+## 6. Restrições e Premissas
+
+### Restrições
+Tecnológicas: Necessidade de desenvolver uma aplicação extremamente leve para operar em conexões móveis lentas e com suporte a sincronização offline.
+
+Operacionais: Proibição de veículos a combustão na região, limitando toda a logística de entregas ao uso de modais suaves.
+
+Geográficas: Ausência de endereçamento formal (CEPs e nomes de ruas oficiais) em grande parte da comunidade, exigindo validação por pontos de referência informais. 
+
+### Premissas
+Adesão Comercial: Os estabelecimentos locais irão migrar o atendimento de vendas informais por redes sociais para a plataforma centralizada.
+
+Força de Trabalho Local: A comunidade contará com moradores interessados em atuar como entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
+
+Infraestrutura de Rede: A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo. 
