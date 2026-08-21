@@ -14,3 +14,11 @@ Com o aumento da demanda de jogadores para a Ibmec Sharks, notou-se que o grande
 ### 2.2 Especificação do Problema
 
 ### 2.3 Proposta de Solução
+
+## 3. Descrição dos Stakeholders e Usuários
+
+### 3.1 Stakeholders
+Grupo de alunos Ibmec que sonham em ver sua instituição ter maior representatividade no cenário de Esports.
+
+### 3.2 Usuários
+Alunos do IBMEC com interesse em participar de um time de Esports e usuários interessados nesse cenário e que querem seguir o cronograma do IBMEC SHARKS
