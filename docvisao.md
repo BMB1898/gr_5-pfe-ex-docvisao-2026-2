@@ -13,24 +13,26 @@ Aplicativo para gestão de pedidos, mapeamento comunitário e suporte à logíst
 produtos como suprimentos básicos, produtos de farmácia, artesanato e encomendas.
 
 
-## 2. Posicionamento
+## 2. Posicionamento ⬇️
 
-### Oportunidade de Negócio
+### 🤝 Oportunidade de Negócio
 Centralizar e profissionalizar o comércio local insular que hoje depende de grupos informais de mensagens, unificando a venda de alimentos, mantimentos e produtos essenciais em uma única plataforma comunitária.
 
-### Especificação do Problema
+### ❗ Especificação do Problema
 Solucionar desafios de logística em ilhas, como ruas sem endereço oficial, proibição de veículos a combustão, instabilidade de internet e a extrema flutuação de demanda entre moradores e turistas.
 
-### Proposta de Solução
+### ‼️ Proposta de Solução
 Criação de um aplicativo adaptado com mapeamento por pontos de referência e fotos, cálculo de rotas para entregas, a pé ou de bicicleta, e funcionamento offline para garantir as vendas mesmo sem sinal.
 
-## 3. Descrição dos Stakeholders e Usuários
+
+## 3. Descrição dos Stakeholders e Usuários 🙋‍♂️
 
 O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsível a refeições, gás, medicamentos e mantimentos com fretes justos, comerciantes locais que precisam de uma ferramenta leve para gerir vendas e estoque sem altas taxas e entregadores da comunidade, que exigem rotas otimizadas para deslocamentos a pé, de bicicleta/ moto ou barco com transparência em seus ganhos.
 
+
 ## 4. Visão geral do produto 🔬
 
-### Recursos principais
+### 🛠️ Recursos principais
 Catálogo organizado: 
 Produtos divididos por categorias como alimentação, farmácia, gás, conveniência e serviços locais.
 
@@ -46,7 +48,7 @@ Interface leve para gestão simples de estoque, controle de horários e atribui�
 Rastreamento em tempo real: 
 Acompanhamento do status do pedido e da rota da entrega ajustada para transporte a pé, de bicicleta ou barco.
 
-### Restrições
+### ⛔ Restrições
 Mobilidade Limitada: 
 Entregas restritas a modais não motorizados (a pé ou de bicicleta) ou pequenas embarcações.
 
@@ -56,9 +58,10 @@ Operação sujeita a instabilidades na rede móvel e oscilações no sinal de in
 Impacto Climático e de Marés: 
 Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
 
-## 5. Requisitos de Alto Nível
 
-### Requisitos Funcionais
+## 5. Requisitos de Alto Nível 🔍
+
+### 💎 Requisitos Funcionais
 Gestão de pedidos e catálogo: 
 O sistema deve permitir a busca, visualização de produtos por categorias e a realização do checkout com pagamento digital ou na entrega.  
 
@@ -72,7 +75,7 @@ Distribuição e atribuição de rotas: O sistema deve direcionar os pedidos aos
 
 Alertas climáticos e de maré: O sistema deve exibir avisos automáticos sobre condições adversas de tempo ou maré que afetem o tempo estimado de entrega.
 
-### Requisitos Não Funcionais
+### 💾 Requisitos Não Funcionais
 Desempenho: 
 O aplicativo deve carregar em no máximo 2 segundos, mantendo bom tempo de resposta mesmo sob conexões de dados móveis instáveis.
 
@@ -83,9 +86,9 @@ Usabilidade e Acessibilidade:
 A interface deve ser simples, leve e intuitiva, com botões claros e navegação facilitada para acomodar usuários idosos ou com pouca familiaridade tecnológica. 
 
 
-## 6. Restrições e Premissas 
+## 6. Restrições e Premissas ♟️
 
-### Restrições
+### ❌ Restrições
 Tecnológicas: 
 Necessidade de desenvolver uma aplicação extremamente leve para operar em conexões móveis lentas e com suporte a sincronização offline.
 
@@ -95,7 +98,7 @@ Proibição de veículos a combustão na região, limitando toda a logística de
 Geográficas: 
 Ausência de endereçamento formal (CEPs e nomes de ruas oficiais) em grande parte da comunidade, exigindo validação por pontos de referência informais. 
 
-### Premissas
+### 🤔 Premissas
 Adesão Comercial: 
 Os estabelecimentos locais irão migrar o atendimento de vendas informais por redes sociais para a plataforma centralizada.
 
@@ -105,9 +108,10 @@ A comunidade contará com moradores interessados em atuar como entregadores parc
 Infraestrutura de Rede: 
 A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo.
 
+
 ## 7. Riscos e Dependências 📊
 
-### Riscos
+### ⚠️ Riscos
 Inoperância por falhas de conectividade: 
 Quedas prolongadas na rede de internet móvel da ilha podem impedir o processamento de novos pedidos e o rastreamento em tempo real.
 
@@ -120,7 +124,7 @@ Dificuldade de adesão por parte de comerciantes ou entregadores mais velhos com
 Sobrecarga na alta temporada: 
 O aumento repentino do volume de pedidos durante feriados e férias pode sobrecarregar a capacidade logística dos entregadores locais.  
 
-### Dependências
+### 🫂 Dependências
 Engajamento do comércio local: 
 O funcionamento do sistema depende da adesão contínua de restaurantes, farmácias e mercados para manter o catálogo atualizado.
 
