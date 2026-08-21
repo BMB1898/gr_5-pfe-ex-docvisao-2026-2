@@ -48,3 +48,18 @@ Dependência de Conectividade Local: Operação sujeita a instabilidades na rede
 
 Impacto Climático e de Marés: Entregas e estoque sujeitos a interrupções devido ao clima adverso ou fechamento da navegação marítima.
 
+## Requisitos de Alto Nível
+
+### Requisitos Funcionais
+Gestão de pedidos e catálogo: 
+O sistema deve permitir a busca, visualização de produtos por categorias e a realização do checkout com pagamento digital ou na entrega.  
+
+Mapeamento adaptativo: O sistema deve permitir o cadastro de endereços por meio de fotos da fachada, coordenadas no mapa e descrições de pontos de referência.  
+
+Agendamento de entregas: O sistema deve possibilitar a encomenda programada de itens e reservas prévias alinhadas à chegada de suprimentos. 
+
+Painel do comerciante: O sistema deve oferecer recursos para controle simples de estoque e ajuste dos produtos.
+
+Distribuição e atribuição de rotas: O sistema deve direcionar os pedidos aos entregadores de acordo com suas zonas geográficas de atuação e capacidade de carga.  
+
+Alertas climáticos e de maré: O sistema deve exibir avisos automáticos sobre condições adversas de tempo ou maré que afetem o tempo estimado de entrega.
