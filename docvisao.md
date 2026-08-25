@@ -118,9 +118,6 @@ Quedas prolongadas na rede de internet móvel da ilha podem impedir o processame
 Desabastecimento por condições climáticas: 
 Marés altas, tempestades e ventanias que fechem os canais de navegação podem interromper o estoque dos comerciantes locais.
 
-Resistência à digitalização: 
-Dificuldade de adesão por parte de comerciantes ou entregadores mais velhos com pouca familiaridade técnica.
-
 Sobrecarga na alta temporada: 
 O aumento repentino do volume de pedidos durante feriados e férias pode sobrecarregar a capacidade logística dos entregadores locais.  
 
