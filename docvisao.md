@@ -129,7 +129,7 @@ Engajamento do comércio local:
 O funcionamento do sistema depende da adesão contínua de restaurantes, farmácias e mercados para manter o catálogo atualizado.
 
 Frota local ativa: 
-A viabilidade das entregas depende da disponibilidade diária de moradores para realizar os trajetos.
+A viabilidade das entregas depende da disponibilidade diária de pessoas para realizar os trajetos.
 
 Disponibilidade da infraestrutura de telecom: 
 O sistema depende dos serviços prestados pelas operadoras locais de telefonia para a sincronização dos dados do aplicativo.
