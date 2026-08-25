@@ -1,6 +1,6 @@
 # Documento de visão: Tropical Turbo
 
-    Este repositório consiste em um Documento de visão para um aplicativo de entregas com o funcionamento focado
+Este repositório consiste em um Documento de visão para um aplicativo de entregas com o funcionamento focado
 para uma pequena ilha. O aplicativo Tropical Turbo possui o principal propósito de melhorar a qualidade da
 logística entre moradores e entregadores dentro desse mesmo convívio, buscando solucionar problemas que restringem
 o serviço de entregas local de funcionar da maneira ideal.
