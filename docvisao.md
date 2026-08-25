@@ -27,7 +27,7 @@ Criação de um aplicativo adaptado com mapeamento por pontos de referência e f
 
 ## 3. Descrição dos Stakeholders e Usuários 🙋‍♂️
 
-O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsível a refeições, gás, medicamentos e mantimentos com fretes justos, comerciantes locais que precisam de uma ferramenta leve para gerir vendas e estoque sem altas taxas e entregadores da comunidade, que exigem rotas otimizadas para deslocamentos a pé, de bicicleta/ moto ou barco com transparência em seus ganhos.
+O ecossistema do aplicativo engloba moradores locais, que buscam acesso previsível a refeições, gás, medicamentos e mantimentos com fretes justos, comerciantes locais que precisam de uma ferramenta leve para gerir vendas e estoque sem altas taxas e entregadores da comunidade, que exigem rotas otimizadas para deslocamentos a pé, de bicicleta ou barco com transparência em seus ganhos.
 
 
 ## 4. Visão geral do produto 🔬
