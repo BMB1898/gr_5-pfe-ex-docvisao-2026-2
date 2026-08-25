@@ -103,7 +103,7 @@ Adesão Comercial:
 Os estabelecimentos locais irão migrar o atendimento de vendas informais por redes sociais para a plataforma centralizada.
 
 Força de Trabalho Local: 
-A comunidade contará com moradores interessados em atuar como entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
+A comunidade contará com entregadores parceiros utilizando seus próprios meios de transporte não motorizados.
 
 Infraestrutura de Rede: 
 A região manterá um sinal básico e funcional de telefonia/internet para permitir a sincronização dos dados do aplicativo.
