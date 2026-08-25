@@ -16,7 +16,7 @@ produtos como suprimentos básicos, produtos de farmácia, artesanato e encomend
 ## 2. Posicionamento ⬇️
 
 ### 🤝 Oportunidade de Negócio
-Centralizar e profissionalizar o comércio local insular que hoje depende de grupos informais de mensagens, unificando a venda de alimentos, mantimentos e produtos essenciais em uma única plataforma comunitária.
+Centralizar e profissionalizar o comércio local insular que hoje depende de grupos informais de mensagens, unificando a venda de alimentos, mantimentos e produtos essenciais em uma única plataforma.
 
 ### ❗ Especificação do Problema
 Solucionar desafios de logística em ilhas, como ruas sem endereço oficial, proibição de veículos a combustão, instabilidade de internet e a extrema flutuação de demanda entre moradores e turistas.
